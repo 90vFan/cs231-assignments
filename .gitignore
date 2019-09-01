@@ -1,0 +1,9 @@
+*.npz
+*.h5
+*.pack
+*.pyc
+*/cifar-10-batches-*
+*/coco-*
+*/cs231n/build
+*/cifar-10-batches-py
+*/cs231n/datasets/cifar-10-batches-py
